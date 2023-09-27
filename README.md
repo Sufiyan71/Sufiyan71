@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I am Mohammad Sufiyan
+- I am a Junior Year CSE student.
+- Also a Gate Aspirant.
+
+
 <!--
 **Sufiyan71/Sufiyan71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
