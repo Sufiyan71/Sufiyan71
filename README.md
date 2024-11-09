@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am Mohammad Sufiyan
-- I am a Junior Year CSE student.
+- I am a Final Year CSE student.
 - Also a Gate Aspirant.
 
 
