@@ -4,8 +4,6 @@
 - I am a Final Year Computer Science major Student
 - Also a Gate Aspirant.
 
-<h2 align="left">Hi 👋! My name is Mohammad Sufiyan and I'm a Data Analyst and software engineer from India</h2>
-
 ###
 
 <div align="center">
